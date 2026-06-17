@@ -27,15 +27,3 @@ Threaded AVL mode:
 ```bash id="5t65s9"
 g++ -std=c++17 -DUSE_THREADED_AVL src/main.cpp src/Playlist.cpp -I include -o app
 ```
-
-## Run
-
-```bash id="n5fu4l"
-./app
-```
-
-On Windows:
-
-```bash id="ztk1dj"
-app.exe
-```
