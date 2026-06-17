@@ -18,9 +18,3 @@ From the `linked-list-playlist` directory:
 ```bash id="nrepmc"
 g++ src/main.cpp src/Playlist.cpp -I include -o playlist
 ```
-
-## How to Run
-
-```bash id="o8hcj0"
-./playlist
-```
